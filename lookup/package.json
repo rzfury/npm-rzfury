@@ -1,0 +1,17 @@
+{
+  "name": "@rzfury/lookup",
+  "version": "1.0.0",
+  "description": "A simple array lookup.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzfury/npm-rzfury.git"
+  },
+  "author": "RZFury",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/rzfury/npm-rzfury/issues"
+  },
+  "homepage": "https://github.com/rzfury/npm-rzfury#readme"
+}
